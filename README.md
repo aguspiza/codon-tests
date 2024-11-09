@@ -18,5 +18,5 @@ Performance Inprovement with full loop -30.54%
 ### With codon 0.17.0 (removing import codon and @codon.jit from the code)
 
 ```
-Codon Version 0.2099秒
+Codon Version 0.02099秒
 ```
