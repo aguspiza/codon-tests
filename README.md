@@ -24,10 +24,11 @@ Codon (Release build) Version 0.0083秒
 
 
 ## Fibo
-
+```
 $ codon run --release fibo.py
 Computed fib(40) = 102334155 in 0.272047 seconds.
 $ python3 fibo.py
 Computed fib(40) = 102334155 in 11.898003101348877 seconds.
 $ python3 fibo.py #codon jit added
 Computed fib(40) = 102334155 in 0.4647183418273926 seconds.
+```
