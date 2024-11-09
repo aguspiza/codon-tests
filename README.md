@@ -19,4 +19,5 @@ Performance Inprovement with full loop -30.54%
 
 ```
 Codon Version 0.02099秒
+Codon (Release build) Version 0.0083秒
 ```
